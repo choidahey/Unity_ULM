@@ -1,5 +1,6 @@
-# 🎓 Universe Life Metaverse (ULM) 
-
+# 🎓 ULM ; Universe Life in Metaverse
+<br/>
+<br/>
 ## 프로젝트 소개
 ULM은 학교 생활을 메타버스로 구현한 소셜 플랫폼입니다. 캠퍼스를 자유롭게 돌아다니며 다른 사용자들과 소통하고, 각 건물에서 특색 있는 미니게임을 즐길 수 있는 새로운 형태의 메타버스 플랫폼입니다.
 <br/>
